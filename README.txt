@@ -1,3 +1,5 @@
 Hello Git and Github
 
-teste para o github
+teste para o GitHub
+
+teste para o git push
